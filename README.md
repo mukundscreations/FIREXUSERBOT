@@ -1,17 +1,17 @@
 # FIREXUSERBOT
 <p align="center">
    
-   <a href="https://github.com/TeamEviral/Fire-X">
+   <a href="https://github.com/mukundscreations/Fire-X">
       <img src="https://telegra.ph/file/b76f4a906f05c059e046a.jpg" alt="firex", height="300px",width="500px">
    </a>
    <br>
-   <b>Fire-X UserBot</b><br>
+   <b>Mukund's Creations UserBot</b><br>
    <i>The Awaited Bot</i>
 </p>
  
 ## ᑈֆօƈɨǟʟ ՏԵɑԵմՏ օƒ ɮօԵ ᐵ 
 
-<p align="left"><a href="https://github.com/TeamEviral/FIREXUSERBOT/network/members"><img src="https://img.shields.io/github/forks/TeamEviral/FIREXUSERBOT?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/TeamEviral/FIREXUSERBOT/stargazers"><img src="https://img.shields.io/github/stars/TeamEviral/FIREXUSERBOT?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/TeamEviral/FIREXUSERBOT"><img src="https://img.shields.io/github/last-commit/TeamEviral/FIREXUSERBOT?logoColor=brown&style=plastic"></a>
+<p align="left"><a href="https://github.com/mukundscreations/FIREXUSERBOT/network/members"><img src="https://img.shields.io/github/forks/mukundscreations/FIREXUSERBOT?label=Forks&logoColor=purple&style=social"></a><p align="left"><a href="https://github.com/mukundscreations/FIREXUSERBOT/stargazers"><img src="https://img.shields.io/github/stars/mukundscreations/FIREXUSERBOT?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/mukundscreations/FIREXUSERBOT"><img src="https://img.shields.io/github/last-commit/mukundscreations/FIREXUSERBOT?logoColor=brown&style=plastic"></a>
    
 ## Star The [Repo](https://github.com/mukundscreations/FIREXUSERBOT/stargazers) Now.
    - Don't forget to star this repo. It motivates us to contribute more for you.
@@ -24,7 +24,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 
 ## FIRST TRY THIS TO DEPLOY ON HEROKU  FROM THIS LINK  IF NOT WORKS FOLLOW BELOW STEP
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mukundscreations/FIREX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mukundscreations/FIREXUSERBOT)
 
 ## Heroku Salesforce Error Solution
 - Make a github Account.
